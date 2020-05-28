@@ -1,5 +1,2 @@
 # Here is a list of my favorite things:
-- Walking
-- Cycling
-- Traveling
-- Shopping 
+- long walks on the beach.
