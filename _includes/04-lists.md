@@ -1,2 +1,3 @@
 # Here is a list of my favorite things:
-- long walks on the beach.
+- long walks on the beach
+- Walking
